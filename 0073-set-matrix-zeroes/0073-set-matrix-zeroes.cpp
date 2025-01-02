@@ -1,31 +1,35 @@
+/* Complexity TC = [O(3*(row*col))], SC = [O(1)] */
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
         int row = matrix.size();
         int col = matrix[0].size();
-
-        bool first_col = false;
-
+        // Use first row and col for marking which row and col have value as "0"
+        bool col0_flag = false;
         for(int i = 0; i < row; i++) {
             for(int j = 0; j < col; j++) {
                 if(matrix[i][j] == 0) {
+                    // For every row colm except 0 col
                     if(j != 0) {
                         matrix[i][0] = 0;
                         matrix[0][j] = 0;
                     }
+                    // For only 0th col
                     else {
-                        first_col = true;
+                        col0_flag = true;
                     }
                 }
             }
         }
+        // Take advantage of first row and first col and a variable col0_flag for setting matrx 0
 
-        // first start filling 0 with column otherwise you change the fulll column or row
+        // Note:- Always set 0 first column first becuse if we go to set 0 a/c to row then it set first col as 0, which we not want for this q.
+
         for(int i = 1; i < col; i++) {
             if(matrix[0][i] == 0) {
-                for(int j = 0; j < row; j++) {
+                for(int j = 1; j < row; j++) {
                     matrix[j][i] = 0;
-                }   
+                }
             }
         }
 
@@ -33,11 +37,11 @@ public:
             if(matrix[i][0] == 0) {
                 for(int j = 1; j < col; j++) {
                     matrix[i][j] = 0;
-                }   
+                }
             }
         }
 
-        if(first_col == true) {
+        if(col0_flag == true) {
             for(int i = 0; i < row; i++) {
                 matrix[i][0] = 0;
             }
