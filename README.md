@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2358-number-of-ways-to-split-array](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
