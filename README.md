@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0020-valid-parentheses) |
+| [1044-find-common-characters](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1044-find-common-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Stack
 |  |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1044-find-common-characters](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1044-find-common-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0073-set-matrix-zeroes) |
+| [1044-find-common-characters](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1044-find-common-characters) |
 ## Matrix
 |  |
 | ------- |
