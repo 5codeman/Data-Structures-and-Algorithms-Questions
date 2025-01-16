@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0075-sort-colors) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2358-number-of-ways-to-split-array) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
