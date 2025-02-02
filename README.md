@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1044-find-common-characters](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1044-find-common-characters) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
