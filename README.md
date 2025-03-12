@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2358-number-of-ways-to-split-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
