@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1044-find-common-characters](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1044-find-common-characters) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0048-rotate-image) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/0054-spiral-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/5codeman/Data-Structures-and-Algorithms-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
